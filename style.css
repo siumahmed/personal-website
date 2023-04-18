@@ -1,0 +1,99 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;;
+}
+.container-full{
+    width: 100%;
+}
+.bg-dev-title{
+    background: silver;
+}
+.container{
+    width: 1200px;
+    padding: 80px 20px;
+    margin: 0 auto;
+}
+section .img{
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    float: right;
+}
+section .img img{
+    margin-left: 165px;
+}
+section .text{
+    position: relative;
+    width: 50%;
+    text-align: justify;
+    margin-left: ;
+    margin-top: 20px;
+}
+section .title{
+    padding: 5px 0 10px 0;
+}
+section .title span{
+    color: red;
+    font-size: 40px;
+}
+section .btn{
+    padding: 10px 15px 10px 15px;
+    background: red;
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+.clear-both{
+    clear: both;
+}
+.bg-biography{
+    background: rgb(218, 216, 216);
+}
+section .biography-text{
+    position: relative;
+    width: 50%;
+    float: right;
+}
+.bg-work{
+    background: blanchedalmond;
+}
+.work h1{
+    text-align: center;
+    padding: 10px 0 30px 0;
+}
+.single-work img{
+    width: 30%;
+    float: right;
+    margin: 10px 15px 10px 15px;
+    border: 1px solid;
+    box-shadow: 1px 5px 5px;
+}
+.bg-footer{
+    background: silver;
+    text-align: center;
+}
+.footer span{
+    font-size: 10px;
+    font-weight: 200;
+    color: grey;
+}
+.footer .client-content{
+    width: 300px;
+    margin: 10px auto;
+    padding-top: 5px;  
+}
+.footer .footer-bottom{
+    background: #ff6969;
+    margin: 30px auto;
+    padding: 30px 10px;
+    width: 300px;
+    color: white;
+    border-radius: 10px;
+}
+.footer-bottom span{
+    color: white;
+}
+.footer-bottom p{
+    margin-top: 10px;
+}
